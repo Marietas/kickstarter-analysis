@@ -16,4 +16,5 @@ With the data shown in Chart 1 (see below), Louise will be able to identify the 
 - Lately, the number of canceled events is insignificant given the population's size shown in the data set and represents a linear behavior along the year. One point to consider is that in October, no events were canceled.
 ---
 Chart 1
+
 ![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.PNG)
