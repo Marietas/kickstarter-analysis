@@ -14,7 +14,7 @@ With the data shown in Chart 1 (see below), Louise will be able to identify the 
 - The number of successful vs. failed events follows a similar tendency between the months of January to April, and September to November. That means that Louise needs to revaluate her targets for both outcomes. Overall, in order to increase the number of successful events and reduce the number of failed events, she needs to reduce the target goals for the months aforementioned. 
 - Another critical point to highlight is that the number of successful and failed events is significantly similar during December, which means that the successful events' goals should be re-assessed for future events during this month.
 - Lately, the number of canceled events is insignificant given the population's size shown in the data set and represents a linear behavior along the year. One point to consider is that in October, no events were canceled.
----
+
 Chart 1
 
 ![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.PNG)
@@ -28,7 +28,7 @@ With the data shown in Chart 2 (see below), Louise will be able to identify the 
 -	100% of the events failed in the dollar range of $45,000 to $49,999.
 -	There is an 80% probability of failed, for events with goals greater than $50,000.
 The results of the "Outcomes based on goals" show that any events from $0 to $4,999 and $35,000 to $44,999 are events with a strong probability of success. Events with goals between dollar-ranges of $25,000 to $34,999 and greater than $45,000 should be re-assed, as they have a really low  chance of being successful (less than 25%). 
----
+
 Chart 2
 
 ![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.PNG)
