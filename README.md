@@ -14,3 +14,5 @@ With the data shown in Chart 1 (see below), Louise will be able to identify the 
 - The number of successful vs. failed events follows a similar tendency between the months of January to April, and September to November. That means that Louise needs to revaluate her targets for both outcomes. Overall, in order to increase the number of successful events and reduce the number of failed events, she needs to reduce the target goals for the months aforementioned. 
 - Another critical point to highlight is that the number of successful and failed events is significantly similar during December, which means that the successful events' goals should be re-assessed for future events during this month.
 - Lately, the number of canceled events is insignificant given the population's size shown in the data set and represents a linear behavior along the year. One point to consider is that in October, no events were canceled.
+---
+Chart 1
