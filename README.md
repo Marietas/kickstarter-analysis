@@ -31,4 +31,5 @@ The results of the "Outcomes based on goals" show that any events from $0 to $4,
 ---
 Chart 2
 
+![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.PNG)
 
