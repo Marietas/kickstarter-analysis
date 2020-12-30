@@ -19,6 +19,7 @@ Chart 1
 
 ![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.PNG)
 
+
 ### Analysis of Outcomes based on Goals
 For the purpose of this analysis, we took into consideration the Parent Category "Theater" and subcategory "Plays." To make this evaluation, we considered the number of outcomes (Successful, Failed, Canceled) on a different dollar-amount range, which allowed us to organize the events on their specific goal amount for the campaign (2014 – 2017). 
 With the data shown in Chart 2 (see below), Louise will be able to identify the following:
