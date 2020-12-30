@@ -33,3 +33,7 @@ Chart 2
 
 ![](https://github.com/Marietas/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.PNG)
 
+### Challenges and Difficulties Encountered
+
+-	During the Analysis of Outcomes based on Launched date, the main challenge was how to convert the month represented by number to a month represented by a text to display it in the right format in the pivot table. Example: how to convert 06 to June. To overcome this challenge, I used the function TEXT (value, "format_text"). To use this function, I added the column "U" and applied the following formula =TEXT(S2,"mmmm"). Please refer to Colum U on the master data tab.
+-	During the Analysis of Outcomes based on Goals, the main challenge was that I missed adding the outcome filter to the nested formula. Therefore, the numbers were not accurate. To overcome this challenge, I performed an audit against the master data to confirm the accuracy of the results and then added the segment of the outcome filter to the nested formula. 
