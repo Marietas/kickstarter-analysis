@@ -37,3 +37,26 @@ Chart 2
 
 -	During the Analysis of Outcomes based on Launched date, the main challenge was how to convert the month represented by number to a month represented by a text to display it in the right format in the pivot table. Example: how to convert 06 to June. To overcome this challenge, I used the function TEXT (value, "format_text"). To use this function, I added the column "U" and applied the following formula =TEXT(S2,"mmmm"). Please refer to Colum U on the master data tab.
 -	During the Analysis of Outcomes based on Goals, the main challenge was that I missed adding the outcome filter to the nested formula. Therefore, the numbers were not accurate. To overcome this challenge, I performed an audit against the master data to confirm the accuracy of the results and then added the segment of the outcome filter to the nested formula. 
+
+## Results
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?
+Regarding the data of the Outcomes based on Launch Date analysis, the following conclusions can be drawn:
+-	There are coherent target goals based on the Launch Date for May, June, and July. To support this conclusion, the data for these months show a slightly linear behavior of numbers of failed events. 
+-	Louise needs to revaluate her targets for both outcomes (successful and failed events) from January to April and September to November. Overall, the results show that by reducing the target goals, she will increase the number of successful events and reduce the number of failed events.
+-	The number of successful and failed events are significantly similar during December, and therefore, the goals for the successful events should be re-assessed for future events during this month.
+
+2.	What can you conclude about the Outcomes based on Goals?
+According to the analysis performed to the Outcomes based on Goals, the following conclusions are considered:
+-	The results of the "Outcomes based on goals" show that any events from $0 to $4,999 and $35,000 to $44,999 are events with a strong probability of success. 
+-	Events with goals between dollar-ranges of $25,000 to $34,999 and greater than $45,000 should be re-assed, as they have a really low chance of being successful (less than 25%). 
+
+3.	What are some limitations of this dataset?
+-	There is not enough information on the criteria used by Louis to establish the goals. The goals could be defined as a percentage of the budget per event, which in this case, the information is missing. 
+-	There is no definition of the data in columns K/L/M (Staff_pick, backers_count, and spotlight) mean. This missing information could potentially add value to the analysis.  
+-	Another data set that could add value to the analysis would be the target audience (family, kids, adults, etc.). For example, this information could conclude why the number of successful events increased during the summer months. 
+
+4.	What are some other possible tables and/or graphs that we could create?
+-	Outcomes (successful, failed, canceled) per month per year. This chart will provide an idea of the behavior of the outcomes through the years and reveal if it is consistent or not.
+-	Outcomes based on goals and launched dates per country. This graph will help us understand which country is most likely to have a higher number of successful events. We could also add the month to this analysis to understand the audience's behavior in each country against the time zone difference. 
+-	On the outcome based on goals analysis, the dollar-range of equal to $50,000 was not required to be shown in the analysis/chart. Louise could use these missing records to have a different perspective on the evaluation. 
+
